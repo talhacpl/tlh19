@@ -4,7 +4,7 @@ public class DERS05 {
 
     public static void main(String[] args) {
 
-        int sonuc =topla(23,12,15);
+        int sonuc =topla(23,12);
         System.out.println(sonuc
         );
 
